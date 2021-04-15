@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/goosfraba/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/goosfraba/static/js/main.0cf5f3c0.chunk.js",
-    "main.js.map": "/goosfraba/static/js/main.0cf5f3c0.chunk.js.map",
+    "main.js": "/goosfraba/static/js/main.9e45f53f.chunk.js",
+    "main.js.map": "/goosfraba/static/js/main.9e45f53f.chunk.js.map",
     "runtime-main.js": "/goosfraba/static/js/runtime-main.6b02a5c2.js",
     "runtime-main.js.map": "/goosfraba/static/js/runtime-main.6b02a5c2.js.map",
     "static/js/2.e5302045.chunk.js": "/goosfraba/static/js/2.e5302045.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6b02a5c2.js",
     "static/js/2.e5302045.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.0cf5f3c0.chunk.js"
+    "static/js/main.9e45f53f.chunk.js"
   ]
 }
