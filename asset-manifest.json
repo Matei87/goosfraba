@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goosfraba/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/goosfraba/static/js/main.0cf5f3c0.chunk.js",
+    "main.js.map": "/goosfraba/static/js/main.0cf5f3c0.chunk.js.map",
+    "runtime-main.js": "/goosfraba/static/js/runtime-main.6b02a5c2.js",
+    "runtime-main.js.map": "/goosfraba/static/js/runtime-main.6b02a5c2.js.map",
+    "static/js/2.e5302045.chunk.js": "/goosfraba/static/js/2.e5302045.chunk.js",
+    "static/js/2.e5302045.chunk.js.map": "/goosfraba/static/js/2.e5302045.chunk.js.map",
+    "static/js/3.91a35b75.chunk.js": "/goosfraba/static/js/3.91a35b75.chunk.js",
+    "static/js/3.91a35b75.chunk.js.map": "/goosfraba/static/js/3.91a35b75.chunk.js.map",
+    "index.html": "/goosfraba/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/goosfraba/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e5302045.chunk.js.LICENSE.txt": "/goosfraba/static/js/2.e5302045.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b02a5c2.js",
+    "static/js/2.e5302045.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0cf5f3c0.chunk.js"
+  ]
+}
