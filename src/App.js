@@ -121,7 +121,6 @@ const App = () => {
 
         <svg width={width} height={height}>
           {myDates.map((d, i) => {
-            console.log(d, i)
             const barHeight = yMax - yPoint(d);
             return (
               <Group key={`bar-${i}`}>
